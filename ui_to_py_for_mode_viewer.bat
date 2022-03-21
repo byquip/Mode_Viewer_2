@@ -1,0 +1,1 @@
+pyuic5 mode_viewer_gui.ui -o mode_viewer_gui.py

@@ -1,0 +1,1 @@
+pyinstaller --onefile --noconsole --windowed --name "Mode Viewer 2.0" --add-data "*.py;." --add-data "*.ico;." --ico=pic.ico main.py
